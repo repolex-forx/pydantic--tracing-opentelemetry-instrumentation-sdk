@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "tracing-opentelemetry-instrumentation-sdk",
+  "versions": [
+    {
+      "commit": "08ef24d98cbc76d5934d9ba65fadf6d5bc4bc91b",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:35:32.239018+00:00"
+    }
+  ]
+}
